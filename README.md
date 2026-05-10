@@ -1,5 +1,5 @@
 <p align="center">
-  <img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api?username=ja35obando&show_icons=true&theme=radical" alt="GitHub Stats" />
+  <img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api?username=ja35obando&show_icons=true&theme=radical&include_all_commits=true&count_private=true" alt="GitHub Stats" />
   <img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=ja35obando&layout=compact&theme=radical" alt="Top Languages" />
 </p>
 
@@ -7,7 +7,7 @@
 
 <p align="center">
   <strong>Senior Software Engineer | Mobile Solutions Architect</strong><br>
-  Especialista en desarrollo móvil nativo e híbrido con +9 años de experiencia.
+  Especialista en desarrollo móvil nativo e híbrido con +9 años de experiencia transformando ideas en ecosistemas escalables.
 </p>
 
 <p align="center">
@@ -19,32 +19,32 @@
 
 ### 📱 Sobre mí
 
-Soy un ingeniero de software apasionado por la arquitectura y la optimización de ecosistemas móviles. Mi enfoque principal es construir soluciones escalables que resuelvan problemas complejos de negocio mediante código limpio y mantenible.
+Soy un apasionado de la ingeniería de software y la arquitectura limpia. Mi enfoque no es solo escribir código, sino diseñar soluciones robustas, mantenibles y con una experiencia de usuario superior.
 
-- 🏗️ **Arquitectura:** Experto en **Clean Architecture, MVVM, MVI** y principios **SOLID**.
-- 🔭 **Proyectos Actuales:** Desarrollo de sistemas de scoring deportivo offline-first y gestión de inventarios.
-- 🌱 **Enfoque Tecnológico:** Jetpack Compose, Kotlin Multiplatform y Flutter.
+- 🏗️ **Arquitectura y Calidad:** Experto en **Clean Architecture, MVVM, MVI** y principios **SOLID**.
+- 🛠️ **Fullstack & Mobile:** Dominio profundo de **Android (Kotlin/Java)** y **Flutter**, complementado con experiencia en **TypeScript** y **Python** para soluciones integrales.
+- 🔭 **Enfoque Actual:** Creación de ecosistemas móviles con capacidades **offline-first** y sincronización de datos de alto rendimiento.
 - 📍 **Ubicación:** San José, Costa Rica 🇨🇷 (CST / UTC-6)
 
 ---
 
 ### 🚀 Tecnologías y Herramientas
 
-#### **Native Android Development**
-<img src="https://img.shields.io/badge/Kotlin-7F52FF?style=for-the-badge&logo=kotlin&logoColor=white" /> <img src="https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white" /> <img src="https://img.shields.io/badge/Jetpack_Compose-4285F4?style=for-the-badge&logo=jetpack-compose&logoColor=white" /> <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white" /> <img src="https://img.shields.io/badge/Dagger/Hilt-A6E12E?style=for-the-badge" />
+#### **Native & Hybrid Development**
+<img src="https://img.shields.io/badge/Kotlin-7F52FF?style=for-the-badge&logo=kotlin&logoColor=white" /> <img src="https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white" /> <img src="https://img.shields.io/badge/Jetpack_Compose-4285F4?style=for-the-badge&logo=jetpack-compose&logoColor=white" /> <img src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white" /> <img src="https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white" /> <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white" />
 
-#### **Multiplatform & Hybrid**
-<img src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white" /> <img src="https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white" /> <img src="https://img.shields.io/badge/Cordova-E8E8E8?style=for-the-badge&logo=apache-cordova&logoColor=black" />
+#### **Languages & Frameworks**
+<img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" /> <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" /> <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" /> <img src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black" /> <img src="https://img.shields.io/badge/SQLite/Room-003B57?style=for-the-badge&logo=sqlite&logoColor=white" />
 
-#### **Architecture & Persistence**
-<img src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black" /> <img src="https://img.shields.io/badge/SQLite/Room-003B57?style=for-the-badge&logo=sqlite&logoColor=white" /> <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" /> <img src="https://img.shields.io/badge/Clean_Architecture-4CAF50?style=for-the-badge" />
+#### **DevOps & Architecture**
+<img src="https://img.shields.io/badge/Clean_Architecture-4CAF50?style=for-the-badge" /> <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" /> <img src="https://img.shields.io/badge/Dagger/Hilt-A6E12E?style=for-the-badge" /> <img src="https://img.shields.io/badge/CI/CD-FF4400?style=for-the-badge" />
 
 ---
 
-### 🛠 Proyectos de Referencia
-*   **Basketball Scoring Ecosystem**: Sistema multiplataforma con sincronización en tiempo real y persistencia local para entornos deportivos.
-*   **Inventory Management**: Aplicación para el control de coleccionables enfocada en rendimiento y diseño de base de datos eficiente.
-*   **Android Architecture Templates**: Repositorios base implementando las mejores prácticas de la industria en Kotlin y Compose.
+### 🛠 Proyectos de Referencia (Selección Senior)
+* **Mobile Inventory Solutions**: Arquitectura offline-first para gestión de inventarios y coleccionables.
+* **Basketball Scoring Ecosystem**: Sistema multiplataforma diseñado para entornos deportivos con sincronización en tiempo real.
+* **Clean Architecture Blueprints**: Templates base en Kotlin y Flutter para escalar aplicaciones con las mejores prácticas.
 
 ---
 
